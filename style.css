@@ -64,14 +64,14 @@ z-index: 100;
 
 .home{
     position: relative;
-    width: 100%;
+    width: 100vh;
     justify-content: space-between;
     height: 100vh;
     background: url("WhatsApp Image 2024-02-23 at 11.14.38 PM.jpeg") no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
-    align-items: cente;
+    align-items: center;
     padding: 70px 10% 0;
 }
 
